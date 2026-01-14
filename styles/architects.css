@@ -65,3 +65,15 @@
   font-weight: 700;
   font-size: 3.5rem;
 }
+.banner-img {
+  width: 100%;
+}
+
+/* Responsive Media Query */
+
+@media (max-width: 576px) {
+  .navbar,
+  .nav-link {
+    flex-direction: column;
+  }
+}
