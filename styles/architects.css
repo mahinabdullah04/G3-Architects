@@ -172,6 +172,9 @@ main > section {
 }
 
 /* Sponsor styles */
+.some-facts {
+  margin-bottom: 100px;
+}
 .sponsor-info {
   max-width: 540px;
   margin: 50px auto;
